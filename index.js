@@ -57,3 +57,4 @@ app.get('/languages', (req, res) => {
     });
 });
 
+module.exports = app;
